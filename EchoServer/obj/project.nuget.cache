@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rEN13W+tExaItDAmYmEdObmDyRfRuQojxNx5HSoBi6dro/fgF7FrQzJ2lwWL0XzF3c/n920vICW8xu1IA/vc0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\Samples\\EchoServer\\EchoServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\박치현\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}

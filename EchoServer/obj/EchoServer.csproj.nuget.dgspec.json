@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\Samples\\EchoServer\\EchoServer.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\FreeNetLite\\FreeNetLite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\FreeNetLite\\FreeNetLite.csproj",
+        "projectName": "FreeNetLite",
+        "projectPath": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\FreeNetLite\\FreeNetLite.csproj",
+        "packagesPath": "C:\\Users\\박치현\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\FreeNetLite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\박치현\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\Samples\\EchoServer\\EchoServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\Samples\\EchoServer\\EchoServer.csproj",
+        "projectName": "EchoServer",
+        "projectPath": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\Samples\\EchoServer\\EchoServer.csproj",
+        "packagesPath": "C:\\Users\\박치현\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\Samples\\EchoServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\박치현\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\FreeNetLite\\FreeNetLite.csproj": {
+                "projectPath": "C:\\Users\\박치현\\Desktop\\edu_com2us_CSharpNetworkProgramming-master\\edu_csharp_FreeNetLiteRe\\FreeNetLite\\FreeNetLite.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CommandLineParser": {
+              "target": "Package",
+              "version": "[2.9.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
