@@ -1,0 +1,11 @@
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\bin\Debug\net6.0\FreeNetLite.deps.json
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\bin\Debug\net6.0\FreeNetLite.dll
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\bin\Debug\net6.0\FreeNetLite.pdb
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\FreeNetLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\FreeNetLite.AssemblyInfoInputs.cache
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\FreeNetLite.AssemblyInfo.cs
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\FreeNetLite.csproj.CoreCompileInputs.cache
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\FreeNetLite.dll
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\refint\FreeNetLite.dll
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\FreeNetLite.pdb
+C:\Users\박치현\Desktop\edu_com2us_CSharpNetworkProgramming-master\edu_csharp_FreeNetLiteRe\FreeNetLite\obj\Debug\net6.0\ref\FreeNetLite.dll
